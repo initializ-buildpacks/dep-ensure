@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/dep-ensure
+module github.com/initializ-buildpacks/dep-ensure
 
 go 1.18
 

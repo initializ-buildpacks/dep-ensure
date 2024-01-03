@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	depensure "github.com/paketo-buildpacks/dep-ensure"
+	depensure "github.com/initializ-buildpacks/dep-ensure"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/chronos"
 	"github.com/paketo-buildpacks/packit/v2/pexec"

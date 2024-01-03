@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	depensure "github.com/paketo-buildpacks/dep-ensure"
-	"github.com/paketo-buildpacks/dep-ensure/fakes"
+	depensure "github.com/initializ-buildpacks/dep-ensure"
+	"github.com/initializ-buildpacks/dep-ensure/fakes"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/chronos"
 	"github.com/paketo-buildpacks/packit/v2/scribe"

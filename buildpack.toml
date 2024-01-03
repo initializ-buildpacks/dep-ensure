@@ -2,14 +2,14 @@ api = "0.7"
 
 [buildpack]
   description = "A buildpack for installing Go modules using dep"
-  homepage = "https://github.com/paketo-buildpacks/dep-ensure"
-  id = "paketo-buildpacks/dep-ensure"
+  homepage = "https://github.com/initializ-buildpacks/dep-ensure"
+  id = "initializ-buildpacks/dep-ensure"
   name = "Paketo Dep Ensure Buildpack"
   keywords = ["go", "dep", "ensure", "modules"]
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/dep-ensure/blob/main/LICENSE"
+    uri = "https://github.com/initializ-buildpacks/dep-ensure/blob/main/LICENSE"
 
 [metadata]
   include-files = ["bin/build", "bin/detect", "bin/run", "buildpack.toml"]

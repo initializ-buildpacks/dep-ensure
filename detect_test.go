@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	depensure "github.com/paketo-buildpacks/dep-ensure"
+	depensure "github.com/initializ-buildpacks/dep-ensure"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/sclevine/spec"
 

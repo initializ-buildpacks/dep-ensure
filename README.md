@@ -9,7 +9,7 @@ more info about the `dep ensure` command, see the
 
 The Dep Ensure CNB does not provide any dependencies. It requires the `dep`
 dependency that can be provided by a buildpack like the [Dep
-CNB](https://github.com/paketo-buildpacks/dep).
+CNB](https://github.com/initializ-buildpacks/dep).
 
 ## Usage
 
